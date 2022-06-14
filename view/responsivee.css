@@ -41,18 +41,18 @@
         display: none;
     }
     .main-column-2 {
-        flex-direction: column;
         margin-bottom: 20px;
+        flex-direction: column;
     }
     .main-row-list {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
     }
     .main-tile::before {
         left: 42%;
     }
     .main-row-item {
-        width: 97%;
+        width: 47%;
         margin-bottom: 20px;
         flex-wrap: wrap;
     }
