@@ -514,7 +514,7 @@ a {
     top: 0;
     bottom: 0;
     z-index: 1;
-    width: 320px;
+    width: 300px;
     background-color: white;
     transform: translateX(100%);
     opacity: 0;
