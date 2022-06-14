@@ -48,6 +48,9 @@
         display: flex;
         flex-direction: column;
     }
+    .main-tile::before {
+        left: 42%;
+    }
     .main-row-item {
         width: 97%;
         margin-bottom: 20px;

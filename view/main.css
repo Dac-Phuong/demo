@@ -196,12 +196,6 @@
     background-color: #32c5d2;
 }
 
-.main-row-column {
-    display: flex;
-    width: 100%;
-    height: 100%;
-}
-
 .main-row-list {
     margin-left: -16px;
     margin-right: -16px;
